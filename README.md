@@ -19,7 +19,7 @@
 | Day  |         학습 내용          | 교재 | 추가 실습 |
 | :--: | :------------------------: | :--- | --------- |
 |  0   |          사전학습          | -    | -         |
-|  1   |     파이토치 시작하기      | [link](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_pytorch_basic.ipynb) |           |
+|  1   |     파이토치 시작하기      | [source](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_pytorch_basic.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_pytorch_basic.ipynb) |           |
 |  2   |  신경망 구조 설계(MNIST)   |      |           |
 |  3   | 신경망 구형 실습(CIFAR-10) |      |           |
 |  4   |          전이학습          |      |           |
