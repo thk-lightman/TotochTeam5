@@ -22,7 +22,7 @@
 | :--: | :------------------------: | :--- | --------- |
 |  0   |          사전학습          | -    | -         |
 |  1   |     파이토치 시작하기      | [source](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_pytorch_basic.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_pytorch_basic.ipynb) |  [source](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_problem.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_1/day1_problem.ipynb)  |
-|  2   |  신경망 구조 설계(MNIST)   | [source](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_2/day2_nn.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_2/day2_nn.ipynb) |           |
+|  2   |  신경망 구조 설계(MNIST)   | [source](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_2/day2_nn.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_2/day2_nn.ipynb) | [source](https://github.com/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_2/day2_problem.ipynb) </br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIFFEL-GN-2nd/TotochTeam5/blob/main/day_2/day2_problem.ipynb) |
 |  3   | 신경망 구형 실습(CIFAR-10) |      |           |
 |  4   |          전이학습          |      |           |
 
